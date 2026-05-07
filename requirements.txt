@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-community
+langchain-huggingface
+streamlit
+requests
+transformers
+sentence-transformers
+qdrant-client
